@@ -1,0 +1,17 @@
+C:\Users\Huy Lo\source\repos\SuperMarketWebAPI\SuperMarketWebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Huy Lo\source\repos\SuperMarketWebAPI\SuperMarketWebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Huy Lo\source\repos\SuperMarketWebAPI\SuperMarketWebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Huy Lo\source\repos\SuperMarketWebAPI\SuperMarketWebAPI\bin\Debug\netcoreapp2.2\SuperMarketWebAPI.deps.json
+C:\Users\Huy Lo\source\repos\SuperMarketWebAPI\SuperMarketWebAPI\bin\Debug\netcoreapp2.2\SuperMarketWebAPI.runtimeconfig.json
+C:\Users\Huy Lo\source\repos\SuperMarketWebAPI\SuperMarketWebAPI\bin\Debug\netcoreapp2.2\SuperMarketWebAPI.runtimeconfig.dev.json
+C:\Users\Huy Lo\source\repos\SuperMarketWebAPI\SuperMarketWebAPI\bin\Debug\netcoreapp2.2\SuperMarketWebAPI.dll
+C:\Users\Huy Lo\source\repos\SuperMarketWebAPI\SuperMarketWebAPI\obj\Debug\netcoreapp2.2\SuperMarketWebAPI.AssemblyInfoInputs.cache
+C:\Users\Huy Lo\source\repos\SuperMarketWebAPI\SuperMarketWebAPI\obj\Debug\netcoreapp2.2\SuperMarketWebAPI.AssemblyInfo.cs
+C:\Users\Huy Lo\source\repos\SuperMarketWebAPI\SuperMarketWebAPI\obj\Debug\netcoreapp2.2\SuperMarketWebAPI.RazorAssemblyInfo.cache
+C:\Users\Huy Lo\source\repos\SuperMarketWebAPI\SuperMarketWebAPI\obj\Debug\netcoreapp2.2\SuperMarketWebAPI.RazorAssemblyInfo.cs
+C:\Users\Huy Lo\source\repos\SuperMarketWebAPI\SuperMarketWebAPI\obj\Debug\netcoreapp2.2\SuperMarketWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Huy Lo\source\repos\SuperMarketWebAPI\SuperMarketWebAPI\obj\Debug\netcoreapp2.2\SuperMarketWebAPI.genruntimeconfig.cache
+C:\Users\Huy Lo\source\repos\SuperMarketWebAPI\SuperMarketWebAPI\bin\Debug\netcoreapp2.2\SuperMarketWebAPI.pdb
+C:\Users\Huy Lo\source\repos\SuperMarketWebAPI\SuperMarketWebAPI\obj\Debug\netcoreapp2.2\SuperMarketWebAPI.dll
+C:\Users\Huy Lo\source\repos\SuperMarketWebAPI\SuperMarketWebAPI\obj\Debug\netcoreapp2.2\SuperMarketWebAPI.pdb
+C:\Users\Huy Lo\source\repos\SuperMarketWebAPI\SuperMarketWebAPI\obj\Debug\netcoreapp2.2\SuperMarketWebAPI.csproj.CoreCompileInputs.cache
